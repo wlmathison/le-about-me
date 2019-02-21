@@ -1,0 +1,18 @@
+h1 {
+border: 1px dashed teal;
+}
+
+#DOB {
+font-style: italic;
+}
+
+#place-of-birth {
+background-color: #FF7F50;
+}
+
+  <!-- 1. Create a new application to display your name, your date of birth and your place of birth.
+  2. Your name should have a 1px dashed border of any color around it.
+  3. Your date of birth should be italicized font.
+  Your place of birth should have a background color of #FF7F50.
+  4. Push this application to a new repo named "le-about-me".
+   -->
